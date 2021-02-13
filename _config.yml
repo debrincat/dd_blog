@@ -3,8 +3,8 @@
 title: Dean DeBrincat
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Dean DeBrincat is me blogging my journey of being a professional amatuer
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://debrincat.github.io/dd_blog/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "deandebrincat" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Author Settings
