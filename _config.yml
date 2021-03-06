@@ -2,7 +2,7 @@
 # General Site Settings
 title: Dean DeBrincat
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Dean DeBrincat is me blogging my journey of being a professional amatuer
+description: Me sharing my learning journey with everybody.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -10,7 +10,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author Settings
 author:
   name: Dean DeBrincat
-  bio: I'm a regular guy sharing what interests me. This includes everything from personal and financial improvement, to health and optimization.
+  bio: I am an Australian Electrician & Youtuber. I enjoy self improvement, personal finance and entrepreneurship.
   avatar: '/images/p1.jpg'
 
 social:
@@ -24,8 +24,8 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hey, I’m Dean! The Professional Amatuer.
-  hero__description: I'm a regular guy sharing what interests me. This includes everything from personal and financial improvement, to health and optimization.
+  hero__title: Howdy, I’m Dean!
+  hero__description: I am an Australian Electrician & Youtuber. I enjoy self improvement, personal finance and entrepreneurship.
   hero__image: '/images/p1.jpg'
 
 
